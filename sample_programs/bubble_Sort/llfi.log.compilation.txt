@@ -1,0 +1,202 @@
+
+
+Start of a pass
+LLFI cannot inject faults in destination reg of   store i32 %34, i32* %i1, align 4, !llfi_index !50
+The selected instruction   store i32 %34, i32* %i1, align 4, !llfi_index !50does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %36, i32* %i1, align 4, !llfi_index !53
+The selected instruction   store i32 %36, i32* %i1, align 4, !llfi_index !53does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i1, align 4, !llfi_index !55
+The selected instruction   store i32 0, i32* %i1, align 4, !llfi_index !55does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %1, !llfi_index !11
+The selected instruction   store i32 0, i32* %1, !llfi_index !11does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %argc, i32* %2, align 4, !llfi_index !12
+The selected instruction   store i32 %argc, i32* %2, align 4, !llfi_index !12does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i8** %argv, i8*** %3, align 8, !llfi_index !13
+The selected instruction   store i8** %argv, i8*** %3, align 8, !llfi_index !13does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i8* %8, i8** %4, !llfi_index !17
+The selected instruction   store i8* %8, i8** %4, !llfi_index !17does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %11, i32* %arr_size, align 4, !llfi_index !21
+The selected instruction   store i32 %11, i32* %arr_size, align 4, !llfi_index !21does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 1, i32* %i, align 4, !llfi_index !22
+The selected instruction   store i32 1, i32* %i, align 4, !llfi_index !22does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %12, !llfi_index !23
+The selected instruction   br label %12, !llfi_index !23does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %15, label %16, label %30, !llfi_index !27
+The selected instruction   br i1 %15, label %16, label %30, !llfi_index !27does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %32, i32* %INDEX, align 4, !llfi_index !47
+The selected instruction   store i32 %32, i32* %INDEX, align 4, !llfi_index !47does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %22, i32* %26, align 4, !llfi_index !38
+The selected instruction   store i32 %22, i32* %26, align 4, !llfi_index !38does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %27, !llfi_index !39
+The selected instruction   br label %27, !llfi_index !39does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %29, i32* %i, align 4, !llfi_index !42
+The selected instruction   store i32 %29, i32* %i, align 4, !llfi_index !42does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %12, !llfi_index !43
+The selected instruction   br label %12, !llfi_index !43does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i1, align 4, !llfi_index !44
+The selected instruction   store i32 0, i32* %i1, align 4, !llfi_index !44does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %65, !llfi_index !86
+The selected instruction   br label %65, !llfi_index !86does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32* %a, i32** %1, align 8, !llfi_index !6
+The selected instruction   store i32* %a, i32** %1, align 8, !llfi_index !6does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %n, i32* %2, align 4, !llfi_index !7
+The selected instruction   store i32 %n, i32* %2, align 4, !llfi_index !7does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i, align 4, !llfi_index !8
+The selected instruction   store i32 0, i32* %i, align 4, !llfi_index !8does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %3, !llfi_index !9
+The selected instruction   br label %3, !llfi_index !9does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %6, label %7, label %57, !llfi_index !13
+The selected instruction   br i1 %6, label %7, label %57, !llfi_index !13does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 1, i32* %j, align 4, !llfi_index !14
+The selected instruction   store i32 1, i32* %j, align 4, !llfi_index !14does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %8, !llfi_index !15
+The selected instruction   br label %8, !llfi_index !15does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %38, !llfi_index !56
+The selected instruction   br label %38, !llfi_index !56does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %41, label %42, label %51, !llfi_index !60
+The selected instruction   br i1 %41, label %42, label %51, !llfi_index !60does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %48, !llfi_index !66
+The selected instruction   br label %48, !llfi_index !66does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %50, i32* %i1, align 4, !llfi_index !69
+The selected instruction   store i32 %50, i32* %i1, align 4, !llfi_index !69does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %38, !llfi_index !70
+The selected instruction   br label %38, !llfi_index !70does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i1, align 4, !llfi_index !75
+The selected instruction   store i32 0, i32* %i1, align 4, !llfi_index !75does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %55, !llfi_index !76
+The selected instruction   br label %55, !llfi_index !76does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %58, label %59, label %68, !llfi_index !80
+The selected instruction   br i1 %58, label %59, label %68, !llfi_index !80does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %67, i32* %i1, align 4, !llfi_index !89
+The selected instruction   store i32 %67, i32* %i1, align 4, !llfi_index !89does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %55, !llfi_index !90
+The selected instruction   br label %55, !llfi_index !90does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %1, !llfi_index !93
+The selected instruction   store i32 0, i32* %1, !llfi_index !93does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 1, i32* %5, !llfi_index !94
+The selected instruction   store i32 1, i32* %5, !llfi_index !94does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %13, label %14, label %53, !llfi_index !21
+The selected instruction   br i1 %13, label %14, label %53, !llfi_index !21does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %26, label %27, label %49, !llfi_index !34
+The selected instruction   br i1 %26, label %27, label %49, !llfi_index !34does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %33, i32* %t, align 4, !llfi_index !41
+The selected instruction   store i32 %33, i32* %t, align 4, !llfi_index !41does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %38, i32* %43, align 4, !llfi_index !52
+The selected instruction   store i32 %38, i32* %43, align 4, !llfi_index !52does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %44, i32* %48, align 4, !llfi_index !58
+The selected instruction   store i32 %44, i32* %48, align 4, !llfi_index !58does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %49, !llfi_index !59
+The selected instruction   br label %49, !llfi_index !59does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %50, !llfi_index !60
+The selected instruction   br label %50, !llfi_index !60does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %52, i32* %j, align 4, !llfi_index !63
+The selected instruction   store i32 %52, i32* %j, align 4, !llfi_index !63does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %8, !llfi_index !64
+The selected instruction   br label %8, !llfi_index !64does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %54, !llfi_index !65
+The selected instruction   br label %54, !llfi_index !65does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %56, i32* %i, align 4, !llfi_index !68
+The selected instruction   store i32 %56, i32* %i, align 4, !llfi_index !68does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %3, !llfi_index !69
+The selected instruction   br label %3, !llfi_index !69does not have any valid registers for fault injection
+
+
+Start of a pass
+LLFI cannot inject faults in destination reg of   store i32 %34, i32* %i1, align 4, !llfi_index !50
+The selected instruction   store i32 %34, i32* %i1, align 4, !llfi_index !50does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %36, i32* %i1, align 4, !llfi_index !53
+The selected instruction   store i32 %36, i32* %i1, align 4, !llfi_index !53does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i1, align 4, !llfi_index !55
+The selected instruction   store i32 0, i32* %i1, align 4, !llfi_index !55does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %1, !llfi_index !11
+The selected instruction   store i32 0, i32* %1, !llfi_index !11does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %argc, i32* %2, align 4, !llfi_index !12
+The selected instruction   store i32 %argc, i32* %2, align 4, !llfi_index !12does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i8** %argv, i8*** %3, align 8, !llfi_index !13
+The selected instruction   store i8** %argv, i8*** %3, align 8, !llfi_index !13does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i8* %8, i8** %4, !llfi_index !17
+The selected instruction   store i8* %8, i8** %4, !llfi_index !17does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %11, i32* %arr_size, align 4, !llfi_index !21
+The selected instruction   store i32 %11, i32* %arr_size, align 4, !llfi_index !21does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 1, i32* %i, align 4, !llfi_index !22
+The selected instruction   store i32 1, i32* %i, align 4, !llfi_index !22does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %12, !llfi_index !23
+The selected instruction   br label %12, !llfi_index !23does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %15, label %16, label %30, !llfi_index !27
+The selected instruction   br i1 %15, label %16, label %30, !llfi_index !27does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %32, i32* %INDEX, align 4, !llfi_index !47
+The selected instruction   store i32 %32, i32* %INDEX, align 4, !llfi_index !47does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %22, i32* %26, align 4, !llfi_index !38
+The selected instruction   store i32 %22, i32* %26, align 4, !llfi_index !38does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %27, !llfi_index !39
+The selected instruction   br label %27, !llfi_index !39does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %29, i32* %i, align 4, !llfi_index !42
+The selected instruction   store i32 %29, i32* %i, align 4, !llfi_index !42does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %12, !llfi_index !43
+The selected instruction   br label %12, !llfi_index !43does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i1, align 4, !llfi_index !44
+The selected instruction   store i32 0, i32* %i1, align 4, !llfi_index !44does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %65, !llfi_index !86
+The selected instruction   br label %65, !llfi_index !86does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32* %a, i32** %1, align 8, !llfi_index !6
+The selected instruction   store i32* %a, i32** %1, align 8, !llfi_index !6does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %n, i32* %2, align 4, !llfi_index !7
+The selected instruction   store i32 %n, i32* %2, align 4, !llfi_index !7does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i, align 4, !llfi_index !8
+The selected instruction   store i32 0, i32* %i, align 4, !llfi_index !8does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %3, !llfi_index !9
+The selected instruction   br label %3, !llfi_index !9does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %6, label %7, label %57, !llfi_index !13
+The selected instruction   br i1 %6, label %7, label %57, !llfi_index !13does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 1, i32* %j, align 4, !llfi_index !14
+The selected instruction   store i32 1, i32* %j, align 4, !llfi_index !14does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %8, !llfi_index !15
+The selected instruction   br label %8, !llfi_index !15does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %38, !llfi_index !56
+The selected instruction   br label %38, !llfi_index !56does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %41, label %42, label %51, !llfi_index !60
+The selected instruction   br i1 %41, label %42, label %51, !llfi_index !60does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %48, !llfi_index !66
+The selected instruction   br label %48, !llfi_index !66does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %50, i32* %i1, align 4, !llfi_index !69
+The selected instruction   store i32 %50, i32* %i1, align 4, !llfi_index !69does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %38, !llfi_index !70
+The selected instruction   br label %38, !llfi_index !70does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %i1, align 4, !llfi_index !75
+The selected instruction   store i32 0, i32* %i1, align 4, !llfi_index !75does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %55, !llfi_index !76
+The selected instruction   br label %55, !llfi_index !76does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %58, label %59, label %68, !llfi_index !80
+The selected instruction   br i1 %58, label %59, label %68, !llfi_index !80does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %67, i32* %i1, align 4, !llfi_index !89
+The selected instruction   store i32 %67, i32* %i1, align 4, !llfi_index !89does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %55, !llfi_index !90
+The selected instruction   br label %55, !llfi_index !90does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 0, i32* %1, !llfi_index !93
+The selected instruction   store i32 0, i32* %1, !llfi_index !93does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 1, i32* %5, !llfi_index !94
+The selected instruction   store i32 1, i32* %5, !llfi_index !94does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %13, label %14, label %53, !llfi_index !21
+The selected instruction   br i1 %13, label %14, label %53, !llfi_index !21does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br i1 %26, label %27, label %49, !llfi_index !34
+The selected instruction   br i1 %26, label %27, label %49, !llfi_index !34does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %33, i32* %t, align 4, !llfi_index !41
+The selected instruction   store i32 %33, i32* %t, align 4, !llfi_index !41does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %38, i32* %43, align 4, !llfi_index !52
+The selected instruction   store i32 %38, i32* %43, align 4, !llfi_index !52does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %44, i32* %48, align 4, !llfi_index !58
+The selected instruction   store i32 %44, i32* %48, align 4, !llfi_index !58does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %49, !llfi_index !59
+The selected instruction   br label %49, !llfi_index !59does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %50, !llfi_index !60
+The selected instruction   br label %50, !llfi_index !60does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %52, i32* %j, align 4, !llfi_index !63
+The selected instruction   store i32 %52, i32* %j, align 4, !llfi_index !63does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %8, !llfi_index !64
+The selected instruction   br label %8, !llfi_index !64does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %54, !llfi_index !65
+The selected instruction   br label %54, !llfi_index !65does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   store i32 %56, i32* %i, align 4, !llfi_index !68
+The selected instruction   store i32 %56, i32* %i, align 4, !llfi_index !68does not have any valid registers for fault injection
+LLFI cannot inject faults in destination reg of   br label %3, !llfi_index !69
+The selected instruction   br label %3, !llfi_index !69does not have any valid registers for fault injection
